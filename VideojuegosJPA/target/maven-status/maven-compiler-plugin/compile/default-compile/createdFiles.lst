@@ -1,5 +1,6 @@
 com\example\videojuegosjpa\Logro.class
-com\example\videojuegosjpa\Direccion.class
 com\example\videojuegosjpa\VideojuegosJPA.class
-com\example\videojuegosjpa\Jugador.class
+DAOS.class
 com\example\videojuegosjpa\Videojuego.class
+com\example\videojuegosjpa\Direccion.class
+com\example\videojuegosjpa\Jugador.class
